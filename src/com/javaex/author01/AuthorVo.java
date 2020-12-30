@@ -1,6 +1,6 @@
 package com.javaex.author01;
 
-public class AuthorVo1 {
+public class AuthorVo {
 	// 필드
 	public int authorId;
 	public String authorName;
